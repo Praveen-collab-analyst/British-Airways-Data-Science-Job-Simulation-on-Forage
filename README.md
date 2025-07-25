@@ -13,7 +13,11 @@ This repository showcases my completion of the **British Airways Data Science Jo
 Below is a visualization of the top 10 most important features influencing customer purchase behavior as identified by the model:
 
 ![Top 10 Feature Importances](feature_importance.png)
-Completation Certificate ()
+
+## 📜 Completion Certificate
+
+You can view the official certificate of completion [here (PDF)](https://github.com/Praveen-collab-analyst/British-Airways-Data-Science-Job-Simulation-on-Forage/blob/main/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_vTdCcJSnWZW3LSgGG_1753484490519_completion_certificate.pdf).
+
 
 ## 📁 Files Included
 
