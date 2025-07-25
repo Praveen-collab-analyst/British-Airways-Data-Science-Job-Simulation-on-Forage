@@ -16,7 +16,9 @@ Below is a visualization of the top 10 most important features influencing custo
 
 ## 📜 Completion Certificate
 
-You can view the official certificate of completion [here (PDF)](https://github.com/Praveen-collab-analyst/British-Airways-Data-Science-Job-Simulation-on-Forage/blob/main/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_vTdCcJSnWZW3LSgGG_1753484490519_completion_certificate.pdf).
+## 📜 Completion Certificate
+
+![British Airways Forage Certificate](https://github.com/Praveen-collab-analyst/British-Airways-Data-Science-Job-Simulation-on-Forage/blob/main/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_vTdCcJSnWZW3LSgGG_1753484490519_completion_certificate-1.png?raw=true)
 
 
 ## 📁 Files Included
