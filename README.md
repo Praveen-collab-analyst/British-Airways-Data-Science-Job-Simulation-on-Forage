@@ -28,17 +28,17 @@ Below is a visualization of the top 10 most important features influencing custo
 
 ## 📁 Files Included
 
-- `Getting Started.ipynb`: Jupyter notebook with the entire workflow (data preprocessing, modeling, visualization).
-- `feature_importance.png`: Bar chart showing the top 10 features driving predictions.
-- `customer_booking.csv`: Cleaned dataset used in the modeling pipeline.
-- `completion_certificate-1.png`: Visual certificate of completion from Forage.
+- `Airline_Booking.ipynb`: Jupyter notebook containing the complete project workflow including data cleaning, modeling, and insights.
+- `feature_importance.png`: Bar chart visualizing the top 10 features driving purchase predictions.
+- `customer_booking.csv`: Dataset used for training and evaluation in the predictive modeling pipeline.
+- `completion_certificate-1.png`: Official certificate of completion from Forage.
 
 ---
 
 ## 🧠 Key Insights
 
 - **Purchase lead time**, **flight hour**, and **length of stay** were the most influential factors.
-- Behavioral features and booking origin also played a moderate role in model predictions.
+- Behavioural features and booking origin also played a moderate role in model predictions.
 - Insights can help British Airways tailor promotions, pricing strategies, and service improvements.
 
 ---
