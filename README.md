@@ -2,11 +2,15 @@
 
 This repository showcases my completion of the **British Airways Data Science Job Simulation** hosted on [Forage](https://www.theforage.com/), where I explored the critical role of data science in enhancing customer experience and driving business strategy.
 
+---
+
 ## 🔍 Project Overview
 
 - Completed a job simulation focused on how data science supports British Airways' commercial decisions.
 - Scraped and analyzed customer review data to uncover valuable insights.
 - Built a predictive model to understand key factors influencing customer purchasing behavior.
+
+---
 
 ## 📊 Feature Importance
 
@@ -14,15 +18,22 @@ Below is a visualization of the top 10 most important features influencing custo
 
 ![Top 10 Feature Importances](feature_importance.png)
 
+---
+
 ## 📜 Completion Certificate
 
 ![British Airways Forage Certificate](https://github.com/Praveen-collab-analyst/British-Airways-Data-Science-Job-Simulation-on-Forage/blob/main/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_vTdCcJSnWZW3LSgGG_1753484490519_completion_certificate-1.png?raw=true)
 
+---
 
 ## 📁 Files Included
 
 - `Getting Started.ipynb`: Jupyter notebook with the entire workflow (data preprocessing, modeling, visualization).
 - `feature_importance.png`: Bar chart showing the top 10 features driving predictions.
+- `data.csv`: Cleaned dataset used in the modeling pipeline.
+- `completion_certificate-1.png`: Visual certificate of completion from Forage.
+
+---
 
 ## 🧠 Key Insights
 
@@ -30,12 +41,16 @@ Below is a visualization of the top 10 most important features influencing custo
 - Behavioral features and booking origin also played a moderate role in model predictions.
 - Insights can help British Airways tailor promotions, pricing strategies, and service improvements.
 
+---
+
 ## 🛠️ Tools & Technologies
 
 - Python
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib
+
+---
 
 ## 📌 About the Program
 
@@ -45,6 +60,6 @@ This project was completed as part of a **virtual internship simulation** provid
 
 ✅ Feel free to explore, fork, or contribute!
 
-📫 For project inquiries or collaboration: 
-email: praveen11x@gmail.com
-website: https://datatrendx.com/
+📫 For project inquiries or collaboration:  
+**Email:** praveen11x@gmail.com  
+**Website:** [datatrendx.com](https://datatrendx.com/)
