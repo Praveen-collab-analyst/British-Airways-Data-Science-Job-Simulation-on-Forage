@@ -30,7 +30,7 @@ Below is a visualization of the top 10 most important features influencing custo
 
 - `Getting Started.ipynb`: Jupyter notebook with the entire workflow (data preprocessing, modeling, visualization).
 - `feature_importance.png`: Bar chart showing the top 10 features driving predictions.
-- `data.csv`: Cleaned dataset used in the modeling pipeline.
+- `customer_booking.csv`: Cleaned dataset used in the modeling pipeline.
 - `completion_certificate-1.png`: Visual certificate of completion from Forage.
 
 ---
